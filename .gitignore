@@ -1,0 +1,54 @@
+# --- Slidev ---
+# Local cache & temp files created by Slidev
+.slidev/
+
+# If you use the "export" command and don't want artifacts in git, uncomment:
+# slides*.pdf
+# slides*.png
+# slides*.pptx
+# export*/
+# captures/
+
+# --- Vite / Build output ---
+dist/
+coverage/
+tmp/
+temp/
+.cache/
+
+# --- Node / Package managers ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+.npm/
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+# --- Editors / IDEs ---
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# --- Type generation (optional; ignore if you don't commit these) ---
+components.d.ts
+auto-imports.d.ts
+
+# --- Environment files (if any) ---
+# Uncomment if you keep local env files out of git:
+# .env
+# .env.local
+# .env.*.local
+
+# Lockfiles are generally recommended to commit:
+# !package-lock.json
+# !yarn.lock
+# !pnpm-lock.yaml
