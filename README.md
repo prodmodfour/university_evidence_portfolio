@@ -12,3 +12,6 @@ The portfolio is seperated into the six themes of the DTS degree. Each folder is
 3. Install the necessary dependencies by running `npm install`.
 4. Start the Slidev presentation by running `npx slidev --open`.
 5. The presentation should open in your default web browser. If it doesn't, you can manually open your browser and go to `http://localhost:3030`.
+
+# Additional resources
+To aid the construction of this portfolio, I kept track of my evidence using this spreadsheet: [KSB Tracker](https://docs.google.com/spreadsheets/d/1FHrOEAYOVTq1GlOubB_C_gIqM7fxAoX0yRz9_KlN3ok/edit?usp=sharing)
